@@ -2,8 +2,8 @@
  * YOUR CODE HERE *
  ******************/
 
-function isValidSecondary(secondary1, secondary2, secondary3){
-  if (secondary1 === 'orange' || secondary1 === 'purple' || secondary1 === 'green'){
+function isValidSecondary(secondary){
+  if (secondary === 'orange' || secondary === 'purple' || secondary === 'green'){
     return true
     }  
     else {
